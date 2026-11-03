@@ -1,0 +1,11 @@
+{
+  "name": "Qutqar 112 — Интерактивный цифровой SOS-сопровождающий",
+  "description": "Умный цифровой ассистент и SOS-сопровождающий на пульт 112: моментальная передача координат и медкарты, интерактивный гид первой помощи при ЧС, СЛР-метроном, звуковая сирена и карта укрытий.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
